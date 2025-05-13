@@ -1,0 +1,153 @@
+[
+  {
+    "id": "kennedy1995pso",
+    "keywords": [
+      "Original PSO",
+      "Swarm Intelligence"
+    ],
+    "year": 1995,
+    "authors": [
+      "J. Kennedy",
+      "R. Eberhart"
+    ],
+    "title": "Particle swarm optimization"
+  },
+  {
+    "id": "shami2022survey",
+    "keywords": [
+      "Survey",
+      "PSO Variants",
+      "Metaheuristics"
+    ],
+    "year": 2022,
+    "authors": [
+      "T. M. Shami",
+      "A. A. El-Saleh",
+      "M. Alswaitti",
+      "Q. Al-Tashi",
+      "M. A. Summaikeh",
+      "S. Mirjalili"
+    ],
+    "title": "Particle Swarm Optimization: A Comprehensive Survey"
+  },
+  {
+    "id": "wu2015iqpso",
+    "keywords": [
+      "Parameter Tuning",
+      "Premature Convergence",
+      "QPSO"
+    ],
+    "year": 2015,
+    "authors": [
+      "J.-Y. Wu"
+    ],
+    "title": "An improved quantum-behaved particle swarm optimization method for solving constrained global optimization problems"
+  },
+  {
+    "id": "cai2020pso",
+    "keywords": [
+      "Strategy Enhancement",
+      "PSO",
+      "Scheduling"
+    ],
+    "year": 2020,
+    "authors": [
+      "L. Cai",
+      "Y. Hou",
+      "Y. Zhao",
+      "J. Wang"
+    ],
+    "title": "Application research and improvement of particle swarm optimization algorithm"
+  },
+  {
+    "id": "hu2018pso",
+    "keywords": [
+      "Strategy Enhancement",
+      "Boundary Search",
+      "PSO"
+    ],
+    "year": 2018,
+    "authors": [
+      "K. Hu",
+      "G.-L. Zhang",
+      "B. Xiong"
+    ],
+    "title": "An Improved Particle Swarm Algorithm for Constrained Optimization Problem"
+  },
+  {
+    "id": "na2024pso",
+    "keywords": [
+      "Architecture-Level",
+      "GPU",
+      "PSO",
+      "Parallel Computing"
+    ],
+    "year": 2024,
+    "authors": [
+      "S. Na",
+      "M. Xuan"
+    ],
+    "title": "An Improved Particle Swarm Optimization Algorithm Based Computer Unified Device Architecture to Symbolic Regression"
+  },
+  {
+    "id": "he2023pso",
+    "keywords": [
+      "Architecture-Level",
+      "Circuit Design",
+      "PSO"
+    ],
+    "year": 2023,
+    "authors": [
+      "Y. He",
+      "M. Xin",
+      "Y. Wang",
+      "C. Xu"
+    ],
+    "title": "A Global Routing Optimization Method for Integrated Circuit Clock Network Based on Improved Particle Swarm Optimization"
+  },
+  {
+    "id": "yuan2021pso",
+    "keywords": [
+      "Hybrid Algorithm",
+      "Whale Optimization",
+      "PSO"
+    ],
+    "year": 2021,
+    "authors": [
+      "Z. Yuan",
+      "J. Li",
+      "H. Yang",
+      "B. Zhang"
+    ],
+    "title": "A Hybrid Whale Optimization and Particle Swarm Optimization Algorithm"
+  },
+  {
+    "id": "shilpa2016pso",
+    "keywords": [
+      "Parameter Tuning",
+      "Adaptive PSO",
+      "Scheduling"
+    ],
+    "year": 2016,
+    "authors": [
+      "K. C. Shilpa",
+      "C. Lakshminarayana",
+      "M. K. Singh"
+    ],
+    "title": "Adaptive particle swarm optimization for best schedule in algorithmic-level synthesis"
+  },
+  {
+    "id": "qingling2023pso",
+    "keywords": [
+      "Hybrid Algorithm",
+      "Simulated Annealing",
+      "PSO"
+    ],
+    "year": 2023,
+    "authors": [
+      "W. Qingling",
+      "J. Yubo"
+    ],
+    "title": "Research on Improved Particle Swarm Optimization Algorithm Based on Simulated Annealing Algorithm"
+  }
+]
